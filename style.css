@@ -1,0 +1,25 @@
+.poco{
+    color: orange;
+}
+.two{
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    width:40%
+}
+.two img{
+    width:100%
+}
+h3{
+    color: blueviolet;
+}
+.top{
+    background-image:url("complete-web-development-bangla-resources-master/developer-portfolio/top-banner.png") ;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+body{
+    margin: 0;
+}
