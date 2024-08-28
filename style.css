@@ -23,3 +23,62 @@ section{
 body{
     margin: 0;
 }
+.botton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding:5px 10px;
+    border-radius: 10%;
+    color: aliceblue;
+    font-weight: 700;
+
+}
+.download{
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    text-decoration:none;
+    padding: 5px 15px;
+    border-radius: 9%;
+    font-weight: 700;
+    color: white;
+}
+.bgimg{
+    background-image: url("complete-web-development-bangla-resources-master/developer-portfolio/exp-bg.png");
+    background-repeat: no-repeat;
+}
+.phn img{
+    width: 100%;
+}
+.phn{
+    padding: 10px 20px;
+    margin-left: 4%;
+    width: 40%;
+    float:left;
+   
+}
+
+.section2{
+    background-image: url("complete-web-development-bangla-resources-master/developer-portfolio/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.single-exprience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 2%;
+    height: 70%;
+
+}
+.exprience-area{
+    background-image: url("complete-web-development-bangla-resources-master/developer-portfolio/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#fanci{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#fanci2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
